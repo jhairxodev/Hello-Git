@@ -1,2 +1,1 @@
-print ("HELLO GIT")
-print ( "¿Qué onda, como andas?")
+print ("HELLO NEW GIT")
